@@ -25,3 +25,5 @@
 </div>
 
 ###
+
+<img href="https://raw.githubusercontent.com/mauricioumelo/mauricioumelo/blob/output/snake.svg" alt="Snake animation" />
