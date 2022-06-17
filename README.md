@@ -24,8 +24,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=true&username=mauricioumelo" height="150" alt="languages graph"  />
 </div>
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/mauricioumelo/mauricioumelo/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+###
