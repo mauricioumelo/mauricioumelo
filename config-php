@@ -46,7 +46,7 @@ settings vscode {
      "bladeFormatter.format.sortTailwindcssClasses": true,
      "[blade]": {
          "editor.defaultFormatter": "shufo.vscode-blade-formatter",
-         "editor.formatOnSave": true
+         "editor.formatOnSave": truehttps://docs.docker.com/engine/install/linux-postinstall/
      },
      "projectManager.git.baseFolders": [
          "/Users/r2luna/code/pinguim.do.laravel"
@@ -146,3 +146,4 @@ $config
 return $config;
 
 
+Docker group add - https://docs.docker.com/engine/install/linux-postinstall/
