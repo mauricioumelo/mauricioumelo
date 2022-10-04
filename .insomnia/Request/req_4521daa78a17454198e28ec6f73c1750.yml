@@ -1,0 +1,26 @@
+_id: req_4521daa78a17454198e28ec6f73c1750
+type: Request
+parentId: fld_db322889825e44c692b459122a16ab35
+modified: 1664136076931
+created: 1653852150664
+url: "{{ _.url }}/usuarios/"
+name: User getAll()
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_637f1d3bf1cc411a87b5e753fb5e2d4a
+authentication: {}
+metaSortKey: -1658994107975
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

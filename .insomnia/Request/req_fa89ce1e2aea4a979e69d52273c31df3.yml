@@ -1,0 +1,32 @@
+_id: req_fa89ce1e2aea4a979e69d52273c31df3
+type: Request
+parentId: fld_db322889825e44c692b459122a16ab35
+modified: 1664136077997
+created: 1657490029809
+url: "{{ _.url }}/usuarios/"
+name: User create()
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"nome": "Mauricio Uchoa",
+    	"usuario": "mauricio.uchoa",
+    	"email":"mauricio@email.com",
+    	"senha":"123456"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_637f1d3bf1cc411a87b5e753fb5e2d4a
+authentication: {}
+metaSortKey: -1658994107925
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

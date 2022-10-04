@@ -1,0 +1,19 @@
+_id: env_696c008bf05a334e409e7657bb7961d7b44d417c
+type: Environment
+parentId: wrk_b47c09ae11e44e4391b8841220fe212b
+modified: 1664138140766
+created: 1653852150656
+name: Base Environment
+data:
+  url: http://localhost:9007/api
+  urlWeb: http://localhost:9007
+  token: "{% response 'body', 'req_f43ba9dfb3774bed84790d7a55dabf98',
+    'b64::JC5kYWRvcy50b2tlbl9hY2Vzc28=::46b', 'never', 60 %}"
+dataPropertyOrder:
+  "&":
+    - url
+    - urlWeb
+    - token
+color: null
+isPrivate: false
+metaSortKey: 1653852150656

@@ -1,0 +1,28 @@
+_id: req_bcf1a05bafbf4abdabdf897e221b9575
+type: Request
+parentId: fld_db322889825e44c692b459122a16ab35
+modified: 1664140554766
+created: 1657490020434
+url: "{{ _.url }}/usuarios/1"
+name: User show()
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_637f1d3bf1cc411a87b5e753fb5e2d4a
+authentication:
+  type: bearer
+  token: ""
+metaSortKey: -1658994107875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

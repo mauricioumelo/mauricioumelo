@@ -1,0 +1,34 @@
+_id: req_f43ba9dfb3774bed84790d7a55dabf98
+type: Request
+parentId: fld_e73be1a2c54e4b738f97ba856502b508
+modified: 1664909149723
+created: 1664136116439
+url: "{{ _.urlWeb }}/login"
+name: Login
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_90473a11804d41be9fe3e51e4e6df7a7
+      name: usuario
+      value: Cron
+      description: ""
+    - id: pair_b8bd7e47a51c487f91e2427c96bbcedb
+      name: senha
+      value: password
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_c1abbdc766d5485e80c098dc0cc2a172
+authentication: {}
+metaSortKey: -1664136116439
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

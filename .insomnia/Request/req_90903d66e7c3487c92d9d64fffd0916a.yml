@@ -1,0 +1,32 @@
+_id: req_90903d66e7c3487c92d9d64fffd0916a
+type: Request
+parentId: fld_db322889825e44c692b459122a16ab35
+modified: 1664136079758
+created: 1657490035642
+url: "{{ _.url }}/usuarios/editar/2"
+name: User update()
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"nome": "Mauricio Uchoa",
+    	"usuario": "mauricio.uchoa",
+    	"email":"mauricio@email.com",
+    	"senha":"123456"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_637f1d3bf1cc411a87b5e753fb5e2d4a
+authentication: {}
+metaSortKey: -1658994107825
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,30 @@
+_id: req_30d2a3c5cd03474b962ebac41fa976bd
+type: Request
+parentId: fld_db322889825e44c692b459122a16ab35
+modified: 1664136080624
+created: 1657490040760
+url: "{{ _.url }}/usuarios/excluir/2"
+name: User delete()
+description: ""
+method: DELETE
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"login": "aaaaa",
+    	"senha": "1234455"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_637f1d3bf1cc411a87b5e753fb5e2d4a
+authentication: {}
+metaSortKey: -1658994107775
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

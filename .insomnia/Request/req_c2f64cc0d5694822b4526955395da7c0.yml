@@ -1,0 +1,21 @@
+_id: req_c2f64cc0d5694822b4526955395da7c0
+type: Request
+parentId: fld_973e0d15d3674589b4d520406580fb1d
+modified: 1664914267458
+created: 1664914232944
+url: http://localhost:9005/esocial-jt-service/ocorrencias/69
+name: listar ocorrenciar
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1664914232944
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

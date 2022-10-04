@@ -1,0 +1,21 @@
+_id: req_3a0c77675acc4c03b617b8efaac5638b
+type: Request
+parentId: fld_7949847958bd4c8e8e33206decd529cc
+modified: 1664915948192
+created: 1664895205882
+url: "{{ _.url }}/eventos/listar/2300"
+name: listar eventos por chave
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1664895205882
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
